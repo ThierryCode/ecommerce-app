@@ -37,4 +37,10 @@ const inventory = [
         img:"lovejs",
         id: uuidv4(),
     },
+    {
+        title: "Mug Summer JS",
+        price: 14.99,
+        img:"jssummer",
+        id: uuidv4(),
+    },
 ]
