@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Shopping() {
+export default function ShoppingCart() {
   return (
     <div>
-        
+      
     </div>
   )
 }
